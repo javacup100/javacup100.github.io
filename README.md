@@ -27,9 +27,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ### 性能测试
+![Image](https://github.com/javacup100/javacup100.github.io/blob/master/perf_monitor.PNG)
 ```markdown
 Syntax highlighted code block
-![Image](https://github.com/javacup100/javacup100.github.io/blob/master/perf_monitor.PNG)
+
 # Header 1
 ## Header 2
 ### Header 3
