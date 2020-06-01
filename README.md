@@ -7,62 +7,10 @@
 - 英文熟练，有百万字以上的翻译经验，长期和欧美同事的沟通经验。
 
 ### 编程
-```markdown
-Syntax highlighted code block
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- Springboot+Mybatis+javascript全栈；
+- 熟悉Groovy、shell等脚本语言，有运维上亿用户量生产系统的实际经验；
 ### 性能测试
-![Image](https://github.com/javacup100/javacup100.github.io/blob/master/perf_monitor.jpg)
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- 熟悉jmeter+grafana后台性能解决方案；
+- 熟悉sitespeed等前端性能解决方案；
 ### 自动化测试
-
-```markdown
-Syntax highlighted code block
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- 熟悉testng、robot framework等测试框架； 
