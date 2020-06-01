@@ -9,10 +9,8 @@
 ### 编程
 - Springboot+Mybatis+javascript全栈；
 - 熟悉Groovy、shell等脚本语言，有运维上亿用户量生产系统的实际经验；
-
 ### 性能测试
 - 熟悉jmeter+grafana后台性能解决方案；
 - 熟悉sitespeed等前端性能解决方案；
-
 ### 自动化测试
 - 熟悉testng、robot framework等测试框架； 
